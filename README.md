@@ -1,4 +1,4 @@
-# miniguia-estudos-notebooklm
+# Mini guia de estudos notebooklm
 Um mini guia de ajuda para a maturação da ideia de emprego e formação de um Analista de Dados
 
 O projeto tem como base aprender com a ajuda da IA do NotebookLM proporcionado pela google, aprender a forma de manusear a IA e com o auxilio dela definir as melhores estrategias de estudos. Utilizando dos métodos de Deep research para encontrar novos materiais relevantes
