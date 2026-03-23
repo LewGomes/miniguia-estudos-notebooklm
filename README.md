@@ -17,3 +17,13 @@ Fontes:
   * https://www.youtube.com/watch?v=u8n2lN3c9lI
   * https://www.youtube.com/watch?v=pNTHjZ1fXM0
   * https://www.insper.edu.br/pt/conteudos/tecnologia/analista-de-dados
+
+Aprendido:
+ * Quais as melhores maneiras de entrar no mercado, como um passo a passo do que aprender primeiro
+ * As melhores certificações para ingressar na área e conquistar o primeiro emprego
+ * Dicas de como estrututar seu portfólio de maneira estratégica
+
+Prompts utilizados:
+ * Quais são as melhores certificações para quem está tentando a primeira oportunidade na carreira de Analista de Dados?
+ * Quais são os projetos que mais abre os olhos de recrutadores envolvendo um sistema de analise de dados?
+ * Quais habilidades e ferramentas são essenciais para a carreira de Analista de Dados?
